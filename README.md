@@ -1,6 +1,6 @@
 # 𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓛𝓪𝓵𝓲𝓽
 
-- 🔭 I’m currently working in Newton School as Full Stack Developer Intern...
+- 🔭 I’m currently working at Newton School as Full Stack Developer Intern...
 - 🌱 I’m currently learning  Java, HTML, CSS, JavaScript, MongoDB.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about any tech related stuff.
