@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Lalit. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓛𝓪𝓵𝓲𝓽</p>
 
 - 🔭 I’m currently working in Newton School as Full Stack Developer Intern...
 - 🌱 I’m currently learning  Java, HTML, CSS, JavaScript, MongoDB.
