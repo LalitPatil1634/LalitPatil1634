@@ -1,4 +1,4 @@
-<p align="center">𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓛𝓪𝓵𝓲𝓽</p>
+# 𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓛𝓪𝓵𝓲𝓽
 
 - 🔭 I’m currently working in Newton School as Full Stack Developer Intern...
 - 🌱 I’m currently learning  Java, HTML, CSS, JavaScript, MongoDB.
