@@ -1,7 +1,7 @@
 # 𝓗𝓮𝓵𝓵𝓸! 𝓘'𝓶 𝓛𝓪𝓵𝓲𝓽
 
 - 🔭 I’m currently working at Newton School as Full Stack Developer Intern...
-- 🌱 I’m currently learning  Java, HTML, CSS, JavaScript, ReactJs, MongoDB.
+- 🌱 I’m currently learning  Java, HTML, CSS, JavaScript, React.js, Node.js MongoDB.
 - 🤔 I’m looking for help with DSA.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @linkedin](https://www.linkedin.com/in/lalit-patil-5233051b4/) , [Twitter - @twitter](https://twitter.com/lalit_lp98) , [Facebook - @facebook](https://www.facebook.com/profile.php?id=100007106532377).
